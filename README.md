@@ -21,42 +21,42 @@ localhost:8000
 ## Uso
 #### Para la gestión de comando se usa Makefile
 
-Construye los contenedores.
+* Construye los contenedores.
 ```bash
 make build
 ```
 
-Levanta los contenedores
+* Levanta los contenedores
 ```bash
 make start
 ```
 
-Para los contenedores
+* Para los contenedores
 ```bash
 make stop
 ```
 
-Para entrar al contenedor de PHP.
+* Para entrar al contenedor de PHP.
 ```bash
 make bash_php
 ```
 
-Para entrar al contenedor de DB.
+* Para entrar al contenedor de DB.
 ```bash
 make bash_db
 ```
 
-crear la aplicación(laravel), por defecto se encontrará en el directorio myApp
+* crear la aplicación(laravel), por defecto se encontrará en el directorio myApp
 ```bash
 make create_app
 ```
 
-Generar encrypted key para el proyecto
+* Generar encrypted key para el proyecto
 ```bash
 make set_key_app
 ```
 
-Actualizar el vendor
+* Actualizar el vendor
 ```bash
 make update_composer
 ```
