@@ -8,6 +8,16 @@ Primero debes clonar el respositorio
 git clone https://github.com/OscarPortillo/laravel-docker-compose.git
 ```
 
+# app url:
+```bash
+localhost:8001
+```
+
+# phpmyadmin url:
+```bash
+localhost:8000
+```
+
 ## Uso
 #### Para la gestión de comando se usa Makefile
 
