@@ -76,7 +76,7 @@ DB_PASSWORD=admin
 ```
 
 # linkedin
-https://www.linkedin.com/in/oscar-portillo-herrera-5a4a611a6/
+https://www.linkedin.com/in/oportillo/
 
 ## Contribuir
 
